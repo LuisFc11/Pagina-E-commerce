@@ -1,0 +1,12 @@
+# Ignorar node_modules en frontend y backend
+/Frontend/node_modules/
+/Backend/node_modules/
+/admin-dasbhoard/node_modules/
+
+/Backend/.env/
+
+
+# Opcional: Ignorar otros archivos comunes en proyectos Node.js
+*.log
+.DS_Store
+.env
