@@ -1,11 +1,11 @@
 Link de la tienda E-Commerce desplegado en netlify:
 ***************************************************
-https://soft-bubblegum-f5d3a8.netlify.app/
+https://inspiring-rolypoly-24021d.netlify.app/
 ***************************************************
 
 Link del dashboard admin:
 ***************************************************
-frolicking-paletas-ff09d2.netlify.app
+https://frolicking-paletas-ff09d2.netlify.app/admin/login
 ***************************************************
 LOGIN:
 - Correo:
