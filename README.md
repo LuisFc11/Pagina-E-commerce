@@ -5,7 +5,7 @@ https://inspiring-rolypoly-24021d.netlify.app/
 
 Link del dashboard admin:
 ***************************************************
-https://frolicking-paletas-ff09d2.netlify.app/admin/login
+https://frolicking-paletas-ff09d2.netlify.app/
 ***************************************************
 LOGIN:
 - Correo:
