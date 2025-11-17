@@ -5,7 +5,7 @@ https://soft-bubblegum-f5d3a8.netlify.app/
 
 Link del dashboard admin:
 ***************************************************
-https://stalwart-lolly-eac479.netlify.app/admin/login
+frolicking-paletas-ff09d2.netlify.app
 ***************************************************
 LOGIN:
 - Correo:
